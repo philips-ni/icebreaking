@@ -20,13 +20,13 @@ For example, [0,2,3,1] is also a valid gray code sequence according to the above
 
 ## Solution
 
-If we look into the example, we will get the idea, if we can get to know gray_code(n-1), the first part of answer could be exactly gray_code(n-1), and the seond part is revered(gray_code(n-1) with the highest big set to 1.
+If we look into the example, we will get the idea, if we can get to know gray_code(n-1), the first part of answer could be exactly gray_code(n-1), and the seond part is based "revered(gray_code(n-1))" and each item's hightest(Nth) bit need to be set as 1.
 
 for example: for n = 3:
 gray_code(n-1) is equal to [00,01,11,10]
 gray_code(n) is equal to [000,001,011,010,110,111,101,100]
 
-The key point is the end of the first part is 010, and start of the second part is 110.
+The key point is the end of the first part is 010, and start of the second part is 110, only 1 bit diff between these two.
 
 ## Code
 ```python
