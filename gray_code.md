@@ -34,7 +34,7 @@ The key point is the end of the first part is 010, and start of the second part 
 class Solution(object):
     def grayCode(self, n):
         if n == 0:
-            return [0]
+            return []
         if n == 1:
             return [0,1]
         tmp = self.grayCode(n-1)
