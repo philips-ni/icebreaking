@@ -4,6 +4,7 @@
 * [RECURSION](Recursion.md)
     * [Permutations](Permutations.md)
     * [N Queens](n_queens.md)
+    * [GRAY CODE](gray_code.md)
 * [BIT MANIPULATION](bit_manipulation.md)
     * [BIT_ADD](bit_add.md)
     * [BIT_SUBSTRACTION](bit_sub.md)
