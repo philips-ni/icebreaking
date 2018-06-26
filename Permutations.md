@@ -22,10 +22,11 @@ pulic class Permutation{
 		return results;
 	}
 
+	@SuppressWarnings("unchecked")
 	private static void permute(int[] nums, ArrayList<Integer> temp, ArrayList<ArrayList<Integer>> results) {
 		if (temp.size() == nums.length) {
 			System.out.println(temp);
-			results.add(temp);
+			results.add((ArrayList<Integer>)temp.clone());
 		}
 
 		for (int i = 0; i < nums.length; i++) {
