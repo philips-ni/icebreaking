@@ -62,7 +62,7 @@ public class NQueens{
 
 ### Python
 
-```
+```python
 # filename: nqeens.py
 class Solution(object):
     def solveNQueens(self, n):
