@@ -8,7 +8,8 @@ TBD
 
 # Serve it locally
  - gitbook serve
-```
+ 
+```bash
 ➜  icebreaking git:(master) ✗ gitbook serve
 Live reload server started on port: 35729
 Press CTRL+C to quit ...
@@ -27,6 +28,7 @@ info: >> generation finished with success in 1.0s !
 
 Starting server ...
 Serving book on http://localhost:4000
+
 ``` 
  
 # Generate PDF
