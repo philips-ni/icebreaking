@@ -32,4 +32,4 @@ Serving book on http://localhost:4000
 ``` 
  
 # Generate PDF
- - TBD
+ - gitbook pdf . ./icebreaking.pdf (need install [calibre](https://calibre-ebook.com), please check [this](https://toolchain.gitbook.com/ebook.html) for detail)
