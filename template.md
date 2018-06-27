@@ -4,7 +4,11 @@ Problem Name
 
 # Problem Statement
 
+Describe the problem here.
+
 # Solutions
+
+Summarize what solutions you're going to talk about.
 
 ## Brute Force
 
