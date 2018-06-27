@@ -4,7 +4,9 @@ Problem Name (This is the title of this page)
 
 # Problem Statement
 
-Describe the problem here.
+Describe the problem here. 
+
+Including input/output, examples and constrains.
 
 # Solutions
 
