@@ -1,4 +1,4 @@
-<Problem Name>
+Problem Name
 ---
 
 Table of Contents
