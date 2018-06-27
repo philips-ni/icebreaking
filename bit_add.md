@@ -5,14 +5,15 @@ Table of Contents
 =================
 
   * [Problem Statement](#problem-statement)
-  * [Solutions](#solutions)
-  *   [Brute Force](#brute-force)
-  *     [Complexity](#complexity)
-  *   [DP](#dp)
-  *     [Complexity](#complexity)
-  *   [Recursion](#recursion)
-  *     [Complexity](#complexity)
+    * [Solutions](#solutions)
+      * [Brute Force](#brute-force)
+        * [Complexity](#complexity)
+      * [DP](#dp)
+        * [Complexity](#complexity)
+      * [Recursion](#recursion)
+        * [Complexity](#complexity)
   * [See Also](#see-also)
+
 
 # Problem Statement
 
