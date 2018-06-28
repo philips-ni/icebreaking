@@ -46,7 +46,7 @@ class Solution(object):
         return result
 ```
 
-```
+```python
 # file: merged_sorted_arrays_test.py
 import unittest
 import merged_sorted_arrays
