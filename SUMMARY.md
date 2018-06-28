@@ -12,6 +12,8 @@
     * [BIT_DIVISION](bit_div.md)
 * [LINKED LIST](linkded_list.md)
 * [ARRAY](array.md)
+* [HEAP](heap.md)
+    * [Merged Sorted Arrays](merge_sorted_arrays.md)
 * [TREE](tree.md)
 * [GRAPH](grapsh.md)
 * [DYNAMIC PROGRAMMING](dynamic_programming.md)

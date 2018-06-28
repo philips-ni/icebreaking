@@ -1,0 +1,11 @@
+{
+    "plugins": [
+        "include-codeblock",
+        "ace"
+    ],
+    "include-codeblock": {
+        "template": "ace",
+        "unindent": true,
+        "edit": true
+    }
+}
