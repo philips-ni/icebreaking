@@ -4,7 +4,8 @@ TBD
 # Build
   - install gitbook-cli 
     - npm install -g gitbook-cli (please check [this](http://blog.teamtreehouse.com/install-node-js-npm-mac) for how to install npm in Mac OS X)
- - gitbook init
+  - gitbook install
+  - gitbook init
 
 # Serve it locally
  - gitbook serve
