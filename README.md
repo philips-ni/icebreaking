@@ -1,6 +1,5 @@
 # Introduction
 TBD
-Just for test
 
 # Build
   - install gitbook-cli 
