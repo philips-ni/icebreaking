@@ -24,7 +24,7 @@ The recursion part is trival, partition part is a little tricky, the idea is :
 
 
 ```python
-# 
+#filename: quick_sort.py 
 class Solution(object):
     def quick_sort(self, l):
         if len(l) < 2:
@@ -53,6 +53,7 @@ class Solution(object):
 ```
 
 ```python
+#file_name: quick_sort_test.py
 import unittest
 import quick_sort
 
