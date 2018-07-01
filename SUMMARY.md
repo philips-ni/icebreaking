@@ -16,5 +16,7 @@
     * [Merged Sorted Arrays](merge_sorted_arrays.md)
 * [TREE](tree.md)
 * [GRAPH](grapsh.md)
+* [SORT](sort.md)
+    * [Quick Sort](quick_sort.md)
 * [DYNAMIC PROGRAMMING](dynamic_programming.md)
 
