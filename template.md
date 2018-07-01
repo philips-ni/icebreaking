@@ -13,11 +13,6 @@ Type: Brute Force|DP|Recursion
 
 Summarize what solutions you're going to talk about.
 
-
-#### Analysis
-
-Your strategy.
-
 #### Code
 
 `
