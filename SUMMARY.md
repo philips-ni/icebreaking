@@ -19,4 +19,6 @@
 * [SORT](sort.md)
     * [Quick Sort](quick_sort.md)
 * [DYNAMIC PROGRAMMING](dynamic_programming.md)
+* [System Design](system_design.md)
+    * [UML examples](uml_examples.md)
 
