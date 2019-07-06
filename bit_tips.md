@@ -5,5 +5,12 @@ BIT_TIPS
  - x &= (x - 1)
  
 ### extract the lowermost set bit
- - n = x & ~(x - 1)
+ - t = x & ~(x - 1)
 
+### get the Nth bit of x
+ - t = (x >> n) & 1
+ 
+### swap the i_th and j_th  bit of x
+ - bit_mask = (1 << i ) | (1 << j)
+ - x ^= bit_mask
+ 
